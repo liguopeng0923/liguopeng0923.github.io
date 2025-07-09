@@ -56,3 +56,10 @@ Selected Publications
 - **Master.** Wuhan University. 2022/09 - 2025/06. 
 
 - **Bachelor.** Wuhan University. 2018/09 - 2022/06. 
+
+🏆 Award
+- National Scholarship
+- First-Class Scholarship of Wuhan University * 3 (Top 5%) 
+- Yu Gang and Song Xiao Scholarship * 2 (Top 1%)
+- Outstanding Masters of Wuhan University
+- Outstanding Graduates of Wuhan University
