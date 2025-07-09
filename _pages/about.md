@@ -16,8 +16,6 @@ News
 ======
 
 - 2025/07: Two papers are accepted by **ICCV 2025**.
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
 
 Selected Publications
 ======
