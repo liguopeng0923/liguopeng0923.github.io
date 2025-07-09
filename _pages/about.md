@@ -19,7 +19,7 @@ More about me: [Email](guopengli@whu.edu.cn) -- [Google Scholar](https://scholar
 
 - 2025/07: Two papers are accepted by **ICCV 2025**.
 
-Selected Publications
+📑 Selected Publications
 ======
 1. Fuse Before Transfer: Knowledge Fusion for Heterogeneous Distillation (**ICCV2025**)
 
