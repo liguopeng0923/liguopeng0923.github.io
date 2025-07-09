@@ -6,13 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+🤵 About Me
+======
 
 I'm a researcher at [StepFun](https://www.stepfun.com/) guided by [Quan Sun](https://scholar.google.com/citations?user=pVKiHdEAAAAJ&hl) and [Zheng Ge](https://scholar.google.com/citations?user=hJ-VrrIAAAAJ), focus on unified understanding and generation multimodal LLMs. 
 In 2025 summer, I got my master's degree from Wuhan University supervised by [Guisong Xia](http://43.154.41.31/xia_En.html) and [Yuan Gao](https://yuan-gao.net/). Before that, I also interned at [Ant Group](https://www.antgroup.com/en) and [Tencent YouTu Lab](https://open.youtu.qq.com/#/open).
 
 More about me: [Email](guopengli@whu.edu.cn) -- [Google Scholar](https://scholar.google.com/citations?user=ba1cv9cAAAAJ&hl) -- [Github](https://github.com/liguopeng0923)
 
-News
+🚀 News
 ======
 
 - 2025/07: Two papers are accepted by **ICCV 2025**.
@@ -35,7 +37,7 @@ Selected Publications
 
    **Guopeng Li**, Yue Xu, Jian Ding, Gui-Song Xia
 
-Experience
+💼 Experience
 ======
 - **StepFun** 2024/12 - Present
 
@@ -49,7 +51,7 @@ Experience
 
   Knowledge Distillation in Pretrain Model
 
-Educations
+📖 Educations
 ======
 - **Master.** Wuhan University. 2022/09 - 2025/06. 
 
