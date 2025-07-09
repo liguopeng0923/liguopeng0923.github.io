@@ -39,15 +39,15 @@ More about me: [Email](guopengli@whu.edu.cn) -- [Google Scholar](https://scholar
 
 💼 Experience
 ======
-- **StepFun** 2024/12 - Present
+- **StepFun**. 2024/12 - Present
 
   Unified MLLM for Understanding and Generation
 
-- **Ant Group** 2024/05 - 2024/11
+- **Ant Group**. 2024/05 - 2024/11
 
   Native MultiModal Large Language Model
 
-- **Tencent YouTu Lab** 2023/10 - 2024/03
+- **Tencent YouTu Lab**. 2023/10 - 2024/03
 
   Knowledge Distillation in Pretrain Model
 
