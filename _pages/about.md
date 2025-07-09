@@ -25,7 +25,7 @@ Selected Publications
 
 2. You Think, You ACT: The New Task of Arbitrary Text to Motion Generation (**ICCV2025**)
 
-   Runqi Wang*, Caoyuan Ma*, **Guopeng Li***, Hanrui Xu, Yuke Li, Zheng Wang
+   Runqi Wang\*, Caoyuan Ma\*, **Guopeng Li**\*, Hanrui Xu, Yuke Li, Zheng Wang
 
 3. Unleashing Unlabeled Data: A Paradigm for Cross-View Geo-Localization (**CVPR2024**)
 
