@@ -18,6 +18,7 @@ More about me: [Email](guopengli@whu.edu.cn) -- [Google Scholar](https://scholar
 🚀 News
 ======
 
+- 2025/08: We release the [NextStep-1](https://github.com/stepfun-ai/NextStep-1), a 14B autogressive model for image generation.
 - 2025/07: Two papers are accepted by **ICCV 2025**.
 
 📑 Selected Publications
